@@ -1,5 +1,8 @@
-## Hi There 👋 I'm <a href="https://www.instagram.com/nazcila/">Lingga Nazila P.</a> </h1>
+## Hi There 👋 I'm <a href="https://www.instagram.com/linggnka/">Lingga Nazila P.</a> </h1>
 <h3>Just wanted to share a little something i wrote, of course i'm very interested in getting your ideas 'out there', but i hope it's useful to some of you and enjoy it!</h3>
+
+This Github serves as a collection of my coding projects. For a more complete overview of my work and my resume, please check out my portfolio.
+➡️ **[View My Portfolio on Google Drive]((https://drive.google.com/drive/folders/1al-4-SM-p7oHO_nWi8cblESujQt0V6wl?usp=sharing))**
 
 ### I’m currently learning:
 
